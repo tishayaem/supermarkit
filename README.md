@@ -12,7 +12,8 @@ We built this MEAN stack app as our final project at [Makers Academy](www.makers
 * level-up our agile skills using TDD, pair-programming, GitHub + Waffle.io and regular stand-ups and retros
 * build something beautiful
 
-![Landing Page](/screenshots/Screen Shot 2016-04-13 at 15.57.17.png)
+<img src="/screenshots/Screen Shot 2016-04-13 at 15.57.17.png" width="720" alt="Landing Page">
+
 
 ## Technologies
 
